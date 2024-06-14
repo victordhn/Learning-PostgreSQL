@@ -17,4 +17,4 @@
 
 #### Ex.3 - Skills in demand for data analyst
 
-<img src="images/exercise3.png" alt="exercise1" style="width:25%;">
+<img src="images/exercise3.png" alt="exercise1" style="width:20%;">
