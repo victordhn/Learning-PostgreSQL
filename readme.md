@@ -5,3 +5,6 @@
 * For extra training, check these PostgreSQL exercises: https://pgexercises.com/
 
 ## Proposed exercises
+* Ex.1 - Top paying Data Analyst remote jobs
+
+![exercise1](images/exercise1.png)
