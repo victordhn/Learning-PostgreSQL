@@ -26,3 +26,5 @@ SELECT
     INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
     ORDER BY salary_year_avg DESC
 ) TO 'C:\\temp\exercise2.csv' WITH (FORMAT CSV, DELIMITER ',', HEADER)
+-- inner join will left the 2 top paying companies out because
+-- their skills required are NULL in the table

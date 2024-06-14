@@ -14,3 +14,7 @@
 * seems like tableau is outpacing power bi
 
 <img src="images/exercise2.png" alt="exercise1" style="width:80%;">
+
+#### Ex.3 - Skills in demand for data analyst
+
+<img src="images/exercise3.png" alt="exercise1" style="width:25%;">
