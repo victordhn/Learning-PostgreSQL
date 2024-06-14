@@ -5,11 +5,11 @@
 * For extra training, check these PostgreSQL exercises: https://pgexercises.com/
 
 ## Proposed exercises
-* Ex.1 - Top paying Data Analyst remote jobs
+#### Ex.1 - Top paying Data Analyst remote jobs
 
 <img src="images/exercise1.png" alt="exercise1" style="width:90%;">
 
-* Ex.2 - Skills required for top paying jobs
+#### Ex.2 - Skills required for top paying jobs
 * with a little help from chatgpt to draw the graph.
 * seems like tableu is outpacing power bi
 
