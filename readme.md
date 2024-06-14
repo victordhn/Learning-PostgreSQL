@@ -11,6 +11,6 @@
 
 #### Ex.2 - Skills required for top paying jobs
 * with a little help from chatgpt to draw the graph.
-* seems like tableu is outpacing power bi
+* seems like tableau is outpacing power bi
 
 <img src="images/exercise2.png" alt="exercise1" style="width:80%;">
